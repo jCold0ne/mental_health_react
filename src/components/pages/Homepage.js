@@ -8,7 +8,7 @@ class HomePage extends Component {
                 <h1>Pet the Kitty</h1>
                 <div>
                     <Link to="/kitty">
-                        <button>Generate Cuteness</button>
+                        <button>Generate Quteness</button>
                     </Link>
                 </div>
             </div>
